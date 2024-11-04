@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epelaavu.github.io/DJC/sitemap_index.txt
+Sitemap: https://epelaavu.github.io/EQN/sitemap_index.txt
+Sitemap: https://epelaavu.github.io/mZf/sitemap_index.txt
+Sitemap: https://epelaavu.github.io/xVN/sitemap_index.txt
